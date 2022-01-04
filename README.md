@@ -9,3 +9,6 @@ rock vs. scissors -> rock wins
 paper vs. scissors -> scissors wins
 
 paper vs. rock -> paper wins
+
+![App Screenshot](https://miro.medium.com/max/800/1*8du96SQUQ0NlWmWvVu20Zw.png)
+
